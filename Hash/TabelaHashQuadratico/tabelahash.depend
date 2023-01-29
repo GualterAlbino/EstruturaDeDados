@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1559424769 source:c:\users\ribei\onedrive\documentos\tabelahash\main.cpp
+	<iostream>
+
+1560287906 source:c:\users\ribei\desktop\tabelahash\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560287612 c:\users\ribei\desktop\tabelahash\tabelahash.h
+	"Dados.h"
+
+1560288041 source:c:\users\ribei\desktop\tabelahash\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+
+1560287560 c:\users\ribei\desktop\tabelahash\dados.h
+
+1560380405 source:c:\users\aluno\desktop\tabelahash\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560379808 c:\users\aluno\desktop\tabelahash\tabelahash.h
+	"Dados.h"
+
+1560378601 c:\users\aluno\desktop\tabelahash\dados.h
+
+1560382076 source:c:\users\aluno\desktop\tabelahash\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+
+1560380406 source:c:\users\ribei\onedrive\Área de trabalho\tabelahash\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560379810 c:\users\ribei\onedrive\Área de trabalho\tabelahash\tabelahash.h
+	"Dados.h"
+
+1560378602 c:\users\ribei\onedrive\Área de trabalho\tabelahash\dados.h
+
+1560882526 source:c:\users\ribei\onedrive\Área de trabalho\tabelahash\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+
+1560969392 source:c:\users\ribei\onedrive\Área de trabalho\tabelahashlinear\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560970004 c:\users\ribei\onedrive\Área de trabalho\tabelahashlinear\tabelahash.h
+	"Dados.h"
+
+1560970004 c:\users\ribei\onedrive\Área de trabalho\tabelahashlinear\dados.h
+
+1560969782 source:c:\users\ribei\onedrive\Área de trabalho\tabelahashlinear\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+
+1560970225 source:c:\users\ribei\onedrive\Área de trabalho\quadratico\tabelahashlinear\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560971286 c:\users\ribei\onedrive\Área de trabalho\quadratico\tabelahashlinear\tabelahash.h
+	"Dados.h"
+
+1560970004 c:\users\ribei\onedrive\Área de trabalho\quadratico\tabelahashlinear\dados.h
+
+1560970225 source:c:\users\lincoln\desktop\trabalho hash\tabelahasquadratico\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1560971286 c:\users\lincoln\desktop\trabalho hash\tabelahasquadratico\tabelahash.h
+	"Dados.h"
+
+1560970004 c:\users\lincoln\desktop\trabalho hash\tabelahasquadratico\dados.h
+
+1560971602 source:c:\users\lincoln\desktop\trabalho hash\tabelahasquadratico\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+
+1562154346 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\tabelahashquadratico\main.cpp
+	<iostream>
+	"TabelaHash.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+
+1562154346 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\tabelahashquadratico\tabelahash.h
+	"Dados.h"
+
+1562154346 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\tabelahashquadratico\dados.h
+
+1562154346 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\tabelahashquadratico\tabelahash.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<list>
+	<conio.h>
+	"TabelaHash.h"
+

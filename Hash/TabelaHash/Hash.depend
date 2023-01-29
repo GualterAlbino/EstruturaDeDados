@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1560260055 source:c:\users\lincoln\desktop\hash\noh.cpp
+	"noh.h"
+
+1560809563 c:\users\lincoln\desktop\hash\noh.h
+	<iostream>
+
+1560809193 source:c:\users\lincoln\desktop\hash\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+
+1560808776 c:\users\lincoln\desktop\hash\tabelahash.h
+	"noh.h"
+
+1560809322 source:c:\users\lincoln\desktop\hash\tabelahash.cpp
+	"tabelaHash.h"
+
+1562154352 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\hash\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+
+1562154352 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\hash\tabelahash.h
+	"noh.h"
+
+1562154352 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\hash\noh.h
+	<iostream>
+
+1562154352 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\hash\noh.cpp
+	"noh.h"
+
+1562154352 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 5\trabalho hash\hash\tabelahash.cpp
+	"tabelaHash.h"
+

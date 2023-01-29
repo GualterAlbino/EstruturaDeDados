@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1635006650 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\fila.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"Funcoes.h"
+
+1635006650 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\fila.h
+	"ArvoreBinariaBusca.h"
+
+1635703189 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\arvorebinariabusca.h
+
+1635006650 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\funcoes.h
+
+1635006651 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\funcoes.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArvoreBinariaBusca.h"
+	"Funcoes.h"
+	<locale.h>
+
+1636061164 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+	"Fila.h"
+	"Funcoes.h"
+	<locale.h>
+
+1636061164 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\tp- arvore\arvorebinariabusca.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+	"Fila.h"
+

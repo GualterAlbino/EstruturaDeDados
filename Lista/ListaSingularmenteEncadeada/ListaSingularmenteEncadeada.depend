@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1600620440 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\lista\listasingularmenteencadeada\lista.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1600620415 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\lista\listasingularmenteencadeada\lista.h
+
+1600620428 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\lista\listasingularmenteencadeada\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1634503041 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\listasingularmenteencadeada\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Funcoes.h"
+
+1634494997 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\listasingularmenteencadeada\lista.h
+
+1634502811 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\listasingularmenteencadeada\lista.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1634501749 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\listasingularmenteencadeada\funcoes.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Funcoes.h"
+	<string.h>
+
+1634497453 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\listasingularmenteencadeada\funcoes.h
+

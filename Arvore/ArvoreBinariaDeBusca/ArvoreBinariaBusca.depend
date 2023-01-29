@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1601232362 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1601232053 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\arvorebinariabusca.h
+
+1601430912 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\3 ed\Árvore binária de busca\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1601430914 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\arvorebinariabusca\arvorebinariabusca.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1634856188 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\arvorebinariabusca\arvorebinariabusca.h
+
+1601232364 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\arvorebinariabusca\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinariaBusca.h"
+
+1634855667 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\arvorebinariabusca\fila.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"ArvoreBinariaBusca.h"
+
+1634856188 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 4\arvorebinariabusca\fila.h
+	"ArvoreBinariaBusca.h"
+

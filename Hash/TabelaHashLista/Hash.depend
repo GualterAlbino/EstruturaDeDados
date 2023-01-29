@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1560260055 source:c:\users\lincoln\desktop\hash\noh.cpp
+	"noh.h"
+
+1560808905 c:\users\lincoln\desktop\hash\noh.h
+	<iostream>
+
+1560809193 source:c:\users\lincoln\desktop\hash\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+
+1560808776 c:\users\lincoln\desktop\hash\tabelahash.h
+	"noh.h"
+
+1560809322 source:c:\users\lincoln\desktop\hash\tabelahash.cpp
+	"tabelaHash.h"
+
+1560917407 source:c:\users\lincoln\downloads\hash\noh.cpp
+	"noh.h"
+
+1560917407 c:\users\lincoln\downloads\hash\noh.h
+	<iostream>
+
+1560918632 source:c:\users\lincoln\downloads\hash\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+
+1560913762 c:\users\lincoln\downloads\hash\tabelahash.h
+	"noh.h"
+
+1560918954 source:c:\users\lincoln\downloads\hash\tabelahash.cpp
+	"tabelaHash.h"
+
+1560917407 source:c:\users\lincoln\desktop\trabalho hash\hash2\noh.cpp
+	"noh.h"
+
+1560917407 c:\users\lincoln\desktop\trabalho hash\hash2\noh.h
+	<iostream>
+
+1560954829 source:c:\users\lincoln\desktop\trabalho hash\hash2\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+
+1560954604 c:\users\lincoln\desktop\trabalho hash\hash2\tabelahash.h
+	"noh.h"
+
+1560954219 source:c:\users\lincoln\desktop\trabalho hash\hash2\tabelahash.cpp
+	"tabelaHash.h"
+
+1560917407 source:c:\users\lincoln\desktop\trabalho hash\tabelahashlista\noh.cpp
+	"noh.h"
+
+1560917407 c:\users\lincoln\desktop\trabalho hash\tabelahashlista\noh.h
+	<iostream>
+
+1560954219 source:c:\users\lincoln\desktop\trabalho hash\tabelahashlista\tabelahash.cpp
+	"tabelaHash.h"
+
+1560954604 c:\users\lincoln\desktop\trabalho hash\tabelahashlista\tabelahash.h
+	"noh.h"
+
+1560980586 source:c:\users\lincoln\desktop\trabalho hash\tabelahashlista\main.cpp
+	<iostream>
+	"tabelaHash.h"
+	<stdlib.h>
+

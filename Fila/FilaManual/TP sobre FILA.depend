@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1633283487 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3(parte 2)\tp sobre fila\fila.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1633283487 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3(parte 2)\tp sobre fila\fila.h
+
+1633815210 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3(parte 2)\tp sobre fila\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	<locale.h>
+
+1633885585 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.2\tp sobre fila\fila.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"Funções.h"
+
+1633283487 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.2\tp sobre fila\fila.h
+
+1633898195 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.2\tp sobre fila\funções.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"Funções.h"
+
+1633898232 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.2\tp sobre fila\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	<locale.h>
+	"Funções.h"
+
+1633898125 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.2\tp sobre fila\funções.h
+

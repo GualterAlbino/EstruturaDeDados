@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599428238 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\fatorial\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504244 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\fatorial\pilha.h
+
+1599514016 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\fatorial\fatorial.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599512275 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\fatorial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fatorial.h"
+
+1599512009 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\fatorial\fatorial.h
+

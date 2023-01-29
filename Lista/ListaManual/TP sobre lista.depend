@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1634503836 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\tp sobre lista\funcoes.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Funcoes.h"
+	<string.h>
+
+1634503836 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\tp sobre lista\lista.h
+
+1634503836 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\tp sobre lista\funcoes.h
+
+1634503836 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\tp sobre lista\lista.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1634503836 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\estudo dirigido 3.3\tp sobre lista\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Funcoes.h"
+

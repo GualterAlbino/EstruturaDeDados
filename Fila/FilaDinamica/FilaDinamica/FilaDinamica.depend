@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600013760 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\fila\filadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1600014258 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\fila\filadinamica\fila.h
+
+1600014826 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\fila\filadinamica\fila.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+

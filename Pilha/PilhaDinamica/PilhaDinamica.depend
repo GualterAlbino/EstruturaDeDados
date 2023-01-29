@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1599411417 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504244 e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.h
+
+1599428238 source:e:\notebook\fagoc\2020-2\algoritmos e estruturas de dados\2 ed\pilha\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599411418 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\pilhadinamica\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504246 b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\pilhadinamica\pilha.h
+
+1599428240 source:b:\gualter\documents\faculdade\faculdade 2-semestre\algoritimos e estruturas de dados - sérgio\estudo dirigido 3\pilhadinamica\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
